@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[730]:
+# @author: Svenja Carina Schulze
 
 
 from bertopic import BERTopic
